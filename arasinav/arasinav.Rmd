@@ -1,0 +1,85 @@
+---
+title: "Türkiye'ye Göçün Sebepleri"
+author: 
+  - Ahmet Selim Koç[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa-tr.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{turkish}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+<!-- ============================== NOTLAR ================================= -->
+<!-- ======================================================================= -->
+[^1]: 18080096, [Github Repo](https://github.com/ahmetselim545/Newproject_23.git)
+
+# Vize Hakkında Önemli Bilgiler
+
+\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
+
+**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
+
+**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
+
+\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
+
+# Giriş
+Göç yada mülteci krizi dünya üzerinde çözümü tam anlamıyla bulunamamış krizlerin en
+önemlilerinden biridir. Ülkemizde bulunduğu coğrafi bölge, çevre ülkelerin iç problemleri ve
+aynı ırktan olduğumuz ülkelerin yaşam standartlarının düşüklüğünden dolayı bu krizden
+nasibini almıştır. Türkiye’de mevcut nüfus yapısına bakıldığı zaman birçok milletten karma
+bir nüfus yapımız bulunmaktadır. Bu karma yapı araştırmalara, anketlere ya da resmi
+kurumların nüfus sayımlarına bakmaksızın gözle görülür boyutlara ulaşmıştır. Mevcut
+duruma bakıldığı zaman Türkiye’nin “göç ülke” olma potansiyeli gitgide artmaktadır. (Kap,
+2014) Bu çalışma veri setinden edinilen bilgiler ile mültecilerin ya da göçmenlerin Türkiye’de
+ikamet etme hakkını kazanma süreçlerine ışık tutabilmek için yapılmış bir çalışmadır. Bu
+sebeptendir ki öncelikle göç ile Türkiye’de kaçak ya da izinli şekilde yaşamaya başlayan
+bu insanları ayrıştırmalıyız. “Mülteci, Birleşmiş Milletler Mülteciler Yüksek Komiserliği
+Statüsü kriterlerini karşılayan ve bir ülkede olup olmadığına bakılmaksızın Yüksek Komiser
+tarafından sağlanan Birleşmiş Milletler (BM) korumasına hak kazanan kişidir.”(Sadik ve
+Zorba, 2017) Türkiye’de mültecilik mevzuatının temelini 1951 tarihli Mültecilerin Hukuki
+Durumuna Dair Cenevre Sözleşmesi oluşturuyor. (Kap, 2014)(ŞİMŞEK, 2018)
+Göçmenler ise yasal olarak bulunduğu ülkeyi çoğunlukla ekonomik nedenlerden dolayı isteği
+doğrultusunda terk ederek diğer ülkeye yasal yollardan yetkililerin izniyle giriş yapıp yasalar
+çerçevesinde o ülkede yaşayan birey ya da bireylere denir.(Deniz, 2014)
+Bu çalışmada bu açıklamalara bakarak ülkemize göç edenleri kitleleri incelemeye çalıştık.
+
+## Çalışmanın Amacı
+Ülkemiz bulunduğu coğrafi konum, kültürel bağları ve diğer bölge ülkelerine nazaran daha
+iyi olan ekonomisi sebebiyle her yıl binlerce mülteci ve göçmen almaktadır. Bu çerçevede
+bakıldığında Türkiye’nin nüfusunun yüzde kaçlık kısmının göçmen ve mülteci olduğunu tam
+olarak bilebilmek neredeyse imkânsızdır. Bu sebeptendir ki Türkiye’ye göçün sebeplerini
+istatistik olarak tam bildiğimiz ikamet etme hakkı olan göçmenleri inceleyerek bulabiliriz Bu
+yüzden bu çalışma da Türkiye’de ikametgah hakkı kazanan göçmenleri inceleyeceğiz.
+
+## Literatür 
+Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+
+
+**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
+
+\newpage
+# Kaynakça {#references}
+<div id="refs"></div>
+
